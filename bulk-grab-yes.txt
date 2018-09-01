@@ -1,0 +1,440 @@
+AFRIKAANS 	South Africa 	ja
+ALBANIAN 	Albania, Kosovo, Macedonia 	po
+ALSATIAN 	France (Alsace) 	ja
+ANTILLEAN CREOLE 	France (French Antilles) 	wè
+ARABIC 	Maghreb, Near East 	نعم (naam)
+ARMENIAN 	Armenia, Armenian Highlands 	ayo
+AZERBAIJANI 	Azerbaijan, Russia (Dagestan), Iran 	beli
+BAMBARA 	Mali 	awo
+BASQUE 	Spain, France 	bai
+BELARUSIAN 	Belarus 	Так (tak)
+BENGALI 	Bangladesh, India 	ha
+BERBER 	Algeria, Mali, Niger 	wah
+BOBO 	Burkina Faso, Mali 	hoon
+BOSNIAN 	Bosnia and Herzegovina, Serbia, Montenegro, Kosovo 	da
+BRETON 	France (Bretagne) 	ya
+BULGARIAN 	Bulgaria, Turkey, Romania 	Да (da)
+BURMESE 	Myanmar 	hoke te / hman te
+CATALAN 	Spain (Catalonia, Balearic Islands, Valencia), Andorra 	sí
+CHEROKEE 	USA (Oklahoma) 	v
+CHINESE (MANDARIN) 	China, Taiwan, Singapore 	是 (shi) / 对 (dui)
+CORSICAN 	France (Corse), Italy (Sardiania) 	iè / sì
+CROATIAN 	Croatia, Bosnia and Herzegovina 	da
+CZECH 	Czech Republic 	ano
+DANISH 	Denmark, Germany (Southern Schleswig), Greenland, Faroe Islands 	ja
+DUTCH 	Netherlands, Belgium, Suriname 	ja
+ENGLISH 	UK, Ireland, USA, Canada, Australia, New Zealand, South Africa 	yes
+ESPERANTO 	[constructed language] 	jes
+ESTONIAN 	Estonia 	jah
+EWE 	Ghana, Togo 	é
+FAROESE 	Faroe Islands, Denmark 	ja
+FIJIAN 	Fiji 	io
+FINNISH 	Finland, Sweden 	kyllä
+FRENCH 	France, Canada (Quebec), Belgium (Wallonia), Switzerland (Romandie), Monaco, Luxembourg 	oui
+FRISIAN 	Netherlands, Germany 	ja
+FRIULAN 	Italy (Friuli) 	se
+GALICIAN 	Spain (Galicia) 	si
+GALLO 	France (Brittany, Normandy) 	yan / vais / vaer
+GEORGIAN 	Georgia 	ki / diakh
+GERMAN 	Germany, Austria, Switzerland, Italy (South Tyrol), Belgium, Liechtenstein, Luxembourg 	ja
+GREEK 	Greece, Cyprus 	ne
+HAITIAN CREOLE 	Haiti 	wi
+HAWAIIAN 	USA (Hawaii) 	'ae
+HEBREW 	Israel 	ken
+HINDI 	India 	हाँ (haan)
+HUNGARIAN 	Hungary, Romania, Slovakia, Serbia 	igen
+ICELANDIC 	Iceland 	já
+INDONESIAN 	Indonesia 	ya
+IRISH GAELIC 	Ireland 	[ repetition of the verb ]
+ITALIAN 	Italy, San Marino, Switzerland 	sì
+JAPANESE 	Japan 	hai / éé
+KABYLE 	Algeria (Kabylie) 	eh
+KAZAKH 	Kazakhstan 	iya
+KHMER 	Cambodia, Thailand, Vietnam 	cha (female) / baht (male)
+KIKONGO 	Democratic Republic of the Congo, the Republic of the Congo, Angola 	ein
+KINYARWANDA 	Rwanda 	yego
+KOREAN 	Korea, North Korea 	ney (old form) / yea (current form)
+KURDISH 	Turkey, Syria, Iraq, Iran 	ere / bele
+LAO 	Laos, Thailand 	doy (very formal) / tiao (formal) / euh (coll.)
+men leo (that's it) / dai (it's possible)
+LARI 	Republic of the Congo 	ee
+LATIN 	Roman Kingdom - extinct 	sic / (repetition of the verb)
+LATVIAN 	Latvia 	jā
+LIGURIAN 	Italy (Liguria) 	sci
+LINGALA 	Democratic Republic of the Congo, Republic of the Congo, Angola, Central African Republic 	èh
+LITHUANIAN 	Lithuania 	taip
+LOW SAXON 	Germany (Northern Germany), Netherlands 	ja
+LUXEMBOURGISH 	Luxembourg 	jo
+MACEDONIAN 	Macedonia 	да (da)
+MALAGASY 	Madagascar 	eny
+MALTESE 	Malta 	iva
+MAORI 	New Zealand 	ae
+MONGOLIAN 	Mongolia 	za / tiim (За / Тийм)
+NORMAN 	France (Normandy) 	veire
+NORMAN (JÈRRIAIS) 	Channel Islands (Jersey) 	vethe
+NORWEGIAN 	Norway 	ja
+OCCITAN 	France, Spain, Italy, Monaco 	òc
+OLD NORSE 	Scandinavia - extinct 	já
+OSSETIAN 	Russia (North Ossetia-Alania), Georgia (South Ossetia) 	о
+PAPIAMENTO 	Aruba, Bonaire, Curaçao 	si
+PERSIAN (FARSI) 	Iran 	bale (polite) / âre (slang)
+POLISH 	Poland, Lithuania, Belarus, Ukraine, Czech Republic, Slovakia 	tak
+PORTUGUESE 	Portugal, Brazil, Cape Verde, Guinea-Bissau, Mozambique, Angola, São Tomé and Príncipe 	sim
+ROMANI 	Romania, Europe 	ova
+ROMANIAN 	Romania, Moldova, Serbia, Ukraine 	da
+RUSSIAN 	Russia, Belarus, Estonia, Latvia, Lithuania, Ukraine, Moldova, Armenia, Azerbaijan, Georgia, Central Asia 	Да (da)
+SANSKRIT 	India - extinct 	आम्। (ām)
+SARDINIAN 	Italy (Sardinia) 	eja / giai / si
+SCOTTISH GAELIC 	UK (Scotland) 	aye / [ repetition of the verb ]
+SERBIAN 	Serbia, Bosnia and Herzegovina, Croatia, Montenegro 	da
+SHIMAORE 	France (Mayotte) 	éwa
+SHONA 	Zimbabwe 	ehe
+SINDHI 	Pakistan (Sindh) 	ha
+SINHALESE 	Sri Lanka 	ovu
+SLOVAK 	Slovakia 	ano
+SLOVENE 	Slovenia, Italy, Austria, Croatia, Hungary, Serbia 	da
+SOBOTA 	Slovenia 	da
+SONINKE 	Mali, Senegal, Ivory Coast, Gambia, Mauritania, Guinea-Bissau, Guinea, Ghana 	yo
+SPANISH 	Spain, Hispanic America, Equatorial Guinea 	sí
+SWAHILI 	Tanzania, Democratic Republic of the Congo, Kenya, Uganda 	ndiyo
+SWEDISH 	Sweden, Finland 	ja
+TAGALOG 	Philippines 	opo / oo
+TAHITIAN 	France (Society Islands) 	e
+TAMIL 	India, Sri Lanka 	ஒம் (om) ou ஆம் (aam)
+TATAR 	Russia (Tatarstan) 	aye
+TELUGU 	India (Andhra Pradesh, Telangana) 	avunu
+THAI 	Thailand 	ใช่ (chaï) / ค่ะ (kha) - woman speaking / ครับ (khrap) - man speaking
+TURKISH 	Turkey, Cyprus, Greece 	evet
+UDMURT 	Russia (Udmurtia) 	ben / o-o / y-y (colloquial)
+UKRAINIAN 	Ukraine 	Так (tak)
+URDU 	Pakistan, India 	han-ji
+WALLOON ("betchfessîs" spelling) 	Belgium 	oyi
+WELSH 	UK (Wales) 	ydw
+[ repetition of the verb ]
+WOLOF 	Senegal, Gambia, Mauritania 	waaw
+YIDDISH 	Central, Eastern and Western Europe, Israel, North America 	yoh
+YORUBA 	Nigeria, Benin 	beeni
+ZULU 	South Africa 	yebo
+
+Language 	Yes
+Afrikaans 	ja
+Albanian 	po
+Arabic 	naäam
+Armenian 	ayo
+Azerbaijani 	hə/hæ
+Basque 	bai
+Belarusian 	dy
+Bengali 	hām̐
+Bosnian 	da
+Bulgarian 	da
+Catalan 	si
+Cebuano 	oo
+Chinese 	shì de
+Croatian 	da
+Czech 	ano
+Danish 	ja
+Dutch 	ja
+English 	yes
+Esperanto 	jes
+Estonian 	jah
+Filipino 	oo
+Finnish 	kyllä
+French 	oui
+Galician 	si
+Georgian 	diakh
+German 	ja
+Greek 	ναί
+Gujarati 	hā
+Haitian 	repons lan se wi
+Hausa 	a
+Hebrew 	ken
+Hindi 	hām̐
+Hmong 	muaj
+Hungarian 	igen
+Icelandic 	já
+Igbo 	ee
+Indonesian 	iya nih
+Irish 	sea
+Italian 	sì
+Japanese 	hai
+Javanese 	ya
+
+
+Language 	Yes
+Kannada 	haudu
+Khmer 	baat
+Korean 	ye
+Lao 	yes
+Latin 	sic
+Latvian 	jā
+Lithuanian 	taip
+Macedonian 	da
+Malagasy 	eny
+Malay 	ya
+Maltese 	iva
+Maori 	ae
+Marathi 	hōya
+Mongolian 	tiim
+Nepali 	hō
+Norwegian 	ja
+Polish 	tak
+Persian 	baleh
+Punjabi 	han ji
+Portuguese 	sim
+Russian 	da
+Romanian 	da
+Slovak 	áno
+Serbian 	da
+Somali 	haa
+Slovenian 	ja
+Swahili 	ndiyo
+Spanish 	sí
+Swedish 	ja
+Tamil 	aam
+Telugu 	avunu
+Thai 	chı̀
+Turkish 	evet
+Ukrainian 	da
+Urdu 	jee haan
+Uzbek 	ha
+Vietnamese 	vâng
+Welsh 	ie
+Yiddish 	yʼá
+Yoruba 	bẹẹni
+Zulu 	yebo
+
+Language 	Yes
+
+Afrikaans
+	Ja
+
+Albanian
+	Po
+
+Amharic
+	Awo
+
+Arabic
+	na’am
+
+Armenian
+	Ayo
+
+Asturian
+	si
+
+Azerbaijani
+	– Bæli
+
+Basque
+	Bai
+
+Bengali
+	Zee ha’a
+
+Bosnian
+	Da
+
+Breton
+	Ya
+
+Bulgarian
+	Da
+
+Cantonese
+	hai
+
+Catalan
+	Sí
+
+Cornish
+	Ya
+
+Creole
+	Wí, Éwè, Anhan
+
+Croatian
+	Da
+
+Czech
+	Ano
+
+Dagaare
+	Oó
+
+Danish
+	Ja
+
+Dutch
+	Ja
+
+English
+	Yes
+
+Esperanto
+	Jes
+
+Estonian
+	Jah
+
+Eurish
+	Ite
+
+Farsi
+	Ba’leh
+
+Finnish
+	Kyllä
+
+French
+	Oui
+
+Frisian
+	Ja
+
+Galician
+	Si
+
+Georgian
+	diakh
+
+German
+	Ja
+
+Greek
+	Nai’
+
+Gujarati
+	haa
+
+Hawaiian
+	`Ae
+
+Hebrew
+	ken
+
+Hindi
+	ha
+
+Holooe
+	Sï
+
+Hungarian
+	Igen
+
+Icelandic
+	Já
+Ido 	Yes
+Indonesian 	Ya
+
+Interlingua
+	Si
+
+Irish
+	sea, tá
+
+Italian
+	Sì
+
+Japanese
+	Hai
+
+Korean
+	Ne
+
+Latin
+	Ita, Recte
+
+Latvian
+	Ja –
+
+Lithuanian
+	Taip
+
+Luganda
+	Weewawo
+
+Malaysian
+	ya
+
+Mandarin
+	shì
+
+Marshallese
+	Aet
+
+Norwegian
+	Ja
+
+Occitan
+	òc, oí ( formal )
+
+Polish
+	Tak
+
+Europortuguese
+	Sim
+
+Portuguese
+	Sim
+
+Quecha
+	Ari
+
+Romanian
+	Da
+
+Russian
+	Da
+
+Serbian
+	Da
+
+Sesotho
+	Ee
+
+Slovak
+	áno
+
+Slovenian
+	Ja
+
+Spanish
+	Sí
+
+Swahili
+	Ndiyo
+
+Swedish
+	Ja
+
+Tagalog
+	Oo
+
+Thai
+	chai
+
+Tswana
+	Ee
+
+Turkish
+	evet
+
+Ukrainian
+	tak
+
+Vietnamese
+	Có, Vâng, Da.
+
+Welsh
+	Ie
+
+Wolof
+	[Yes]
+
+Xhosa
+	Ewe
+
+Yiddish
+	yo
+Zulu 	Yebo

@@ -1,0 +1,441 @@
+AFRIKAANS 	South Africa 	nee
+ALBANIAN 	Albania, Kosovo, Macedonia 	jo
+ALSATIAN 	France (Alsace) 	naï
+ANTILLEAN CREOLE 	France (French Antilles) 	awa
+ARABIC 	Maghreb, Near East 	laa
+ARMENIAN 	Armenia, Armenian Highlands 	votch
+AZERBAIJANI 	Azerbaijan, Russia (Dagestan), Iran 	xeyir
+BASQUE 	Spain, France 	ez
+BELARUSIAN 	Belarus 	Не (nie)
+BENGALI 	Bangladesh, India 	na
+BERBER 	Algeria, Mali, Niger 	lla
+BOBO 	Burkina Faso, Mali 	aïlle
+BOSNIAN 	Bosnia and Herzegovina, Serbia, Montenegro, Kosovo 	ne
+BRETON 	France (Bretagne) 	nann
+BULGARIAN 	Bulgaria, Turkey, Romania 	né
+BURMESE 	Myanmar 	ma hoke phu / hmar te
+CATALAN 	Spain (Catalonia, Balearic Islands, Valencia), Andorra 	no
+CHEROKEE 	USA (Oklahoma) 	tla / hla
+CHINESE (MANDARIN) 	China, Taiwan, Singapore 	pù shi
+CORSICAN 	France (Corse), Italy (Sardiania) 	nò
+CROATIAN 	Croatia, Bosnia and Herzegovina 	ne
+CZECH 	Czech Republic 	ne
+DANISH 	Denmark, Germany (Southern Schleswig), Greenland, Faroe Islands 	nej
+DUTCH 	Netherlands, Belgium, Suriname 	nee
+ENGLISH 	UK, Ireland, USA, Canada, Australia, New Zealand, South Africa 	no
+ESPERANTO 	[constructed language] 	ne
+ESTONIAN 	Estonia 	ei
+FAROESE 	Faroe Islands, Denmark 	nei
+FINNISH 	Finland, Sweden 	ei
+FRENCH 	France, Canada (Quebec), Belgium (Wallonia), Switzerland (Romandie), Monaco, Luxembourg 	non
+FRISIAN 	Netherlands, Germany 	nee
+FRIULAN 	Italy (Friuli) 	no
+GALICIAN 	Spain (Galicia) 	non
+GALLO 	France (Brittany, Normandy) 	nanni
+GEORGIAN 	Georgia 	ara
+GERMAN 	Germany, Austria, Switzerland, Italy (South Tyrol), Belgium, Liechtenstein, Luxembourg 	nein
+GREEK 	Greece, Cyprus 	ohi
+GUARANI 	Paraguay 	nahániri
+HAITIAN CREOLE 	Haiti 	non
+HAWAIIAN 	USA (Hawaii) 	ʻaole
+HEBREW 	Israel 	lo
+HINDI 	India 	nahin
+HUNGARIAN 	Hungary, Romania, Slovakia, Serbia 	nem
+ICELANDIC 	Iceland 	nei
+IGBO 	Nigeria, Equatorial Guinea 	mba
+INDONESIAN 	Indonesia 	tidak
+ITALIAN 	Italy, San Marino, Switzerland 	no
+JAPANESE 	Japan 	iié
+KABYLE 	Algeria (Kabylie) 	ala
+KHMER 	Cambodia, Thailand, Vietnam 	thay
+KIKONGO 	Democratic Republic of the Congo, the Republic of the Congo, Angola 	ve
+KINYARWANDA 	Rwanda 	oya
+KOREAN 	Korea, North Korea 	ahneo
+KURDISH 	Turkey, Syria, Iraq, Iran 	no / na
+LAO 	Laos, Thailand 	bo
+LARI 	Republic of the Congo 	kâni
+LATIN 	Roman Kingdom - extinct 	minime (not at all), non (and repetition of the verb)
+LATVIAN 	Latvia 	nē
+LIGURIAN 	Italy (Liguria) 	no
+LINGALA 	Democratic Republic of the Congo, Republic of the Congo, Angola, Central African Republic 	te
+LITHUANIAN 	Lithuania 	ne
+LOW SAXON 	Germany (Northern Germany), Netherlands 	nee
+LUXEMBOURGISH 	Luxembourg 	neen
+MACEDONIAN 	Macedonia 	не (ne)
+MALAGASY 	Madagascar 	tsia
+MALAY 	Malaysia, Brunei, Singapore 	tidak
+MALTESE 	Malta 	le
+MAORI 	New Zealand 	kaore
+MONGOLIAN 	Mongolia 	ugui (Yгvй)
+NORMAN 	France (Normandy) 	nennin / nenn
+NORWEGIAN 	Norway 	nei
+OCCITAN 	France, Spain, Italy, Monaco 	non
+OLD NORSE 	Scandinavia - extinct 	nei
+OSSETIAN 	Russia (North Ossetia-Alania), Georgia (South Ossetia) 	нæй
+PAPIAMENTO 	Aruba, Bonaire, Curaçao 	no
+PERSIAN (FARSI) 	Iran 	kheyr / na
+POLISH 	Poland, Lithuania, Belarus, Ukraine, Czech Republic, Slovakia 	nie
+PORTUGUESE 	Portugal, Brazil, Cape Verde, Guinea-Bissau, Mozambique, Angola, São Tomé and Príncipe 	não
+ROMANI 	Romania, Europe 	na
+ROMANIAN 	Romania, Moldova, Serbia, Ukraine 	nu
+RUSSIAN 	Russia, Belarus, Estonia, Latvia, Lithuania, Ukraine, Moldova, Armenia, Azerbaijan, Georgia, Central Asia 	Нет (niet)
+SARDINIAN 	Italy (Sardinia) 	no
+SCOTTISH GAELIC 	UK (Scotland) 	ag
+SERBIAN 	Serbia, Bosnia and Herzegovina, Croatia, Montenegro 	ne
+SHONA 	Zimbabwe 	aiwa
+SINDHI 	Pakistan (Sindh) 	na
+SINHALESE 	Sri Lanka 	nae
+SLOVAK 	Slovakia 	nie
+SLOVENE 	Slovenia, Italy, Austria, Croatia, Hungary, Serbia 	ne
+SOBOTA 	Slovenia 	ne
+SONINKE 	Mali, Senegal, Ivory Coast, Gambia, Mauritania, Guinea-Bissau, Guinea, Ghana 	aï
+SPANISH 	Spain, Hispanic America, Equatorial Guinea 	no
+SWAHILI 	Tanzania, Democratic Republic of the Congo, Kenya, Uganda 	siyo / hapana
+SWEDISH 	Sweden, Finland 	nej
+TAGALOG 	Philippines 	hindi (po)
+TAHITIAN 	France (Society Islands) 	aita
+TAMIL 	India, Sri Lanka 	illaï
+TATAR 	Russia (Tatarstan) 	yuk
+TELUGU 	India (Andhra Pradesh, Telangana) 	kadhu
+THAI 	Thailand 	ไม่ (maï) / ไม่ใช่ (maï chaï)
+TURKISH 	Turkey, Cyprus, Greece 	hayir
+UDMURT 	Russia (Udmurtia) 	oevoel (with nouns) / ug (with verbs)
+UKRAINIAN 	Ukraine 	Ні (ni)
+URDU 	Pakistan, India 	نهين (nahin)
+WALLOON ("betchfessîs" spelling) 	Belgium 	neni
+WELSH 	UK (Wales) 	nage
+WOLOF 	Senegal, Gambia, Mauritania 	déedéet
+YIDDISH 	Central, Eastern and Western Europe, Israel, North America 	nein
+YORUBA 	Nigeria, Benin 	rara
+ZULU 	South Africa 	cha
+
+Language 	No
+Afrikaans 	nee
+Albanian 	jo
+Arabic 	laa
+Armenian 	voch'
+Azerbaijani 	yox /jox
+Basque 	ez
+Belarusian 	nie
+Bengali 	Nā
+Bosnian 	ne
+Bulgarian 	ne
+Catalan 	no
+Cebuano 	dili
+Chinese 	méiyǒu
+Croatian 	ne
+Czech 	ne
+Danish 	ingen
+Dutch 	geen
+English 	no
+Esperanto 	neniu
+Estonian 	ei
+Filipino 	hindi
+Finnish 	ei
+French 	non
+Galician 	non
+Georgian 	ar
+German 	keine
+Greek 	óchi
+Gujarati 	naa
+Haitian 	pa gen okenn
+Hausa 	babu
+Hebrew 	lo
+Hindi 	nahi
+Hmong 	tsis muaj
+Hungarian 	nincs
+Icelandic 	ekki
+Igbo 	ọ dịghị
+Indonesian 	tak ada
+Irish 	níl aon
+Italian 	no
+Japanese 	Īe
+Javanese 	ora
+
+
+Language 	No
+Kannada 	illa
+Khmer 	a-dtay
+Korean 	ani
+Lao 	bomi
+Latin 	non
+Latvian 	nē
+Lithuanian 	ne
+Macedonian 	ne
+Malagasy 	tsy
+Malay 	tidak
+Maltese 	ebda
+Maori 	kahore
+Marathi 	nāhī
+Mongolian 	ugui
+Nepali 	kunai
+Norwegian 	ikke
+Polish 	nie
+Persian 	nakheyr
+Punjabi 	naheen
+Portuguese 	não
+Russian 	net
+Romanian 	nu
+Slovak 	nie
+Serbian 	ne
+Somali 	no
+Slovenian 	no
+Swahili 	hakuna
+Spanish 	no
+Swedish 	ingen
+Tamil 	enta
+Telugu 	kaadu
+Thai 	mị̀
+Turkish 	hayır
+Ukrainian 	nemaye
+Urdu 	jee nahin
+Uzbek 	yo'q
+Vietnamese 	không
+Welsh 	dim
+Yiddish 	qyyn
+Yoruba 	ko si
+Zulu 	no
+
+Language 	No
+
+Afrikaans
+	Nee
+
+Albanian
+	Jo
+
+Amharic
+	Aye
+
+Arabic
+	laa
+
+Armenian
+	Votch
+
+Asturian
+	non, nun
+
+Azerbaijani
+	– Yox
+
+Basque
+	Ez
+
+Bengali
+	Na
+
+Bosnian
+	Ne
+
+Breton
+	Nann
+
+Bulgarian
+	Ne
+
+Cantonese
+	m hai
+
+Catalan
+	No
+
+Cornish
+	Na
+
+Creole
+	Non
+
+Croatian
+	Ne
+
+Czech
+	Ne
+
+Dagaare
+	Aí
+
+Danish
+	Nej
+
+Dutch
+	Nee
+
+English
+	No
+
+Esperanto
+	Ne
+
+Estonian
+	Ei
+
+Eurish
+	No
+
+Farsi
+	Nah
+
+Finnish
+	Ei
+
+French
+	Non
+
+Frisian
+	Nee
+
+Galician
+	Nom – Non
+
+Georgian
+	ara
+
+German
+	Nein
+
+Greek
+	O’hi
+
+Gujarati
+	naa
+
+Hawaiian
+	`A`ole
+
+Hebrew
+	lo
+
+Hindi
+	nahi
+
+Holooe
+	M¯-sï
+
+Hungarian
+	Nem
+
+Icelandic
+	Nei
+
+Ido
+	No
+
+Indonesian
+	
+
+Tidak
+
+Interlingua
+	No
+
+Irish
+	ní hea, nil
+
+Italian
+	No
+
+Japanese
+	Iie
+
+Korean
+	A-nim-ni-da , A-ni-yo
+
+Latin
+	Non, Minime
+
+Latvian
+	Ne –
+
+Lithuanian
+	Ne
+
+Luganda
+	Nedda
+
+Malaysian
+	tidak
+
+Mandarin
+	bú shì
+
+Marshallese
+	Jaab
+
+Norwegian
+	Nei
+
+Occitan
+	Non, nani ( formal )
+
+Polish
+	Nie
+
+Europortuguese
+	Não
+
+Portuguese
+	Não
+
+Quecha
+	Manan
+
+Romanian
+	Nu
+
+Russian
+	Net
+
+Serbian
+	Ne
+
+Sesotho
+	Tjhee
+
+Slovak
+	nie
+
+Slovenian
+	Ne
+
+Spanish
+	No
+
+Swahili
+	Hapana
+
+Swedish
+	Nej
+
+Tagalog
+	Hindi
+
+Thai
+	mai-chai/mai-oua
+
+Tswana
+	Nnyaa.
+
+Turkish
+	hayžr
+
+Ukrainian
+	ni
+
+Vietnamese
+	Không
+
+Welsh
+	Nage
+
+Wolof
+	[No]
+
+Xhosa
+	Hayi
+
+Yiddish
+	neyn
+
+Zulu
+	cha
