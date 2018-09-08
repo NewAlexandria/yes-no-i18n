@@ -1,4 +1,4 @@
-# yes-no-words [![Build Status](https://travis-ci.org/sindresorhus/yes-no-words.svg?branch=master)](https://travis-ci.org/sindresorhus/yes-no-words)
+# yes-no-i18n [![Build Status](https://travis-ci.org/sindresorhus/yes-no-i18n.svg?branch=master)](https://travis-ci.org/sindresorhus/yes-no-i18n)
 
 > Get yes/no like words
 
@@ -10,14 +10,14 @@
 ## Install
 
 ```
-$ npm install --save yes-no-words
+$ npm install --save yes-no-i18n
 ```
 
 
 ## Usage
 
 ```js
-const yesNoWords = require('yes-no-words');
+const yesNoWords = require('yes-no-i18n');
 
 yesNoWords.yesRandom();
 //=> 'Yisss'
@@ -66,7 +66,7 @@ Random yes or no like words.
 ## CLI
 
 ```
-$ npm install --global yes-no-words
+$ npm install --global yes-no-i18n
 ```
 
 ```

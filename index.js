@@ -9,10 +9,10 @@ exports.yes = yes;
 exports.no = no;
 exports.all = all;
 
-exports.yesRandom = function() { return uniqueRandomArray(yes).call().split("@")[1]; }
-exports.yesRandomWithLang = function() { return uniqueRandomArray(yes).split("@").reverse().join(" - that's in "); }
+exports.yesRandom = function() { return uniqueRandomArray(yes).call().split(",")[1]; }
+exports.yesRandomWithLang = function() { return uniqueRandomArray(yes).split(",").reverse().join(" - that's in "); }
 
-exports.noRandom = function() { return uniqueRandomArray(no).split("@")[1]; }
-exports.noRandomWithLang = function() { return uniqueRandomArray(no).split("@").reverse().join(" - that's in "); }
+exports.noRandom = function() { return uniqueRandomArray(no).split(",")[1]; }
+exports.noRandomWithLang = function() { return uniqueRandomArray(no).split(",").reverse().join(" - that's in "); }
 
-exports.allRandom = function() { return uniqueRandomArray(all).split("@")[1]; }
+exports.allRandom = function() { return uniqueRandomArray(all).split(",")[1]; }
