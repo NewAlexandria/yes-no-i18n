@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 'use strict';
-var meow = require('meow');
-var yesNoWords = require('./');
+const meow = require('meow');
+const yesNoWords = require('.');
 
-var cli = meow([
+const cli = meow([
 	'Examples',
 	'  $ yes-no',
 	'  Yisss',
@@ -18,5 +18,5 @@ var cli = meow([
 	'  --type  Type of word: yes|no|all  Default: all'
 ]);
 
-var type = cli.flags.type || 'all';
+const type = cli.flags.type || 'all';
 console.log(cli.flags.all ? yesNoWords[type].join('\n') : yesNoWords[type + 'Random']());

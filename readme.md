@@ -1,4 +1,4 @@
-# yes-no-i18n [![Build Status](https://travis-ci.org/sindresorhus/yes-no-i18n.svg?branch=master)](https://travis-ci.org/sindresorhus/yes-no-i18n)
+# yes-no-i18n [![Build Status](https://travis-ci.org/NewAlexandria/yes-no-words.svg?branch=master)](https://travis-ci.org/NewAlexandria/yes-no-words)
 
 > Get yes/no like words
 
