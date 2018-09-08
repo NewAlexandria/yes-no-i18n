@@ -13,7 +13,7 @@ exports.yesRandom = function () {
 	return uniqueRandomArray(yes).call().split(',')[1];
 };
 exports.yesRandomWithLang = function () {
-	return uniqueRandomArray(yes).call().split(',').reverse().join(' - thatr\'s in ');
+	return uniqueRandomArray(yes).call().split(',').reverse().join(' - that\'s in ');
 };
 
 exports.noRandom = function () {

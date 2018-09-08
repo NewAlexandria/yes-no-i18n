@@ -5,12 +5,12 @@ const yesNoWords = require('.');
 
 const cli = meow([
 	'Examples',
-	'  $ yes-no',
-	'  Yisss',
+	'  $ yes-no-i18n',
+	'  Éwè',
 	'',
 	'  $ yes-no --all --type yes',
-	'  Absolutely',
-	'  Affirmative',
+	'  Zee',
+	'  हाँ',
 	'  ...',
 	'',
 	'Options',
