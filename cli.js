@@ -13,10 +13,15 @@ const cli = meow([
 	'  हाँ',
 	'  ...',
 	'',
+	'  $ yes-no --type no --which',
+	'  neen - that\'s in Luxembourgish',
+	'',
 	'Options',
 	'  --all   Get all words instead of a random word',
-	'  --type  Type of word: yes|no|all  Default: all'
+	'  --type  Type of word: yes|no|all  Default: all',
+	'  --which Include the language of the word'
 ]);
 
 const type = cli.flags.type || 'all';
-console.log(cli.flags.all ? yesNoWords[type].join('\n') : yesNoWords[type + 'Random']());
+const which = cli.flags.which ? 'WithLang' : '';
+console.log(cli.flags.all ? yesNoWords[type].join('\n').replace(',', ': ') : yesNoWords[type + 'Random' + which]());
