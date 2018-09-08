@@ -1,4 +1,4 @@
-# yes-no-i18n [![Build Status](https://travis-ci.org/NewAlexandria/yes-no-words.svg?branch=master)](https://travis-ci.org/NewAlexandria/yes-no-words)
+# yes-no-i18n 
 
 > Get yes/no words from the World
 
@@ -99,11 +99,15 @@ $ yes-no --help
     $ yes-no --all --type yes
     Zee
     हाँ
+    
+    $ yes-no --type no --which
+    neen - that's in Luxembourgish
     ...
 
   Options
     --all   Get all words instead of a random word
     --type  Type of word: yes|no|all  Default: all
+    --which Include the language of the word
 ```
 
 
