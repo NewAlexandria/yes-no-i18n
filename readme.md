@@ -1,8 +1,8 @@
-# yes-no-i18n [![Build Status](https://travis-ci.org/sindresorhus/yes-no-i18n.svg?branch=master)](https://travis-ci.org/sindresorhus/yes-no-i18n)
+# yes-no-i18n 
 
-> Get yes/no like words
+> Get yes/no words from the World
 
-![](https://cloud.githubusercontent.com/assets/170270/7630384/c62755ba-fa35-11e4-95a3-a9c51d376f4b.png)
+![](https://user-images.githubusercontent.com/87758/45258500-c791a280-b386-11e8-8030-7f1c12936491.png)
 
 *The lists are just JSON files and can be used wherever.*
 
@@ -30,37 +30,57 @@ yesNoWords.yesRandom();
 
 Type: `array`
 
-Yes like words.
+Yes words.
 
 ### .no
 
 Type: `array`
 
-No like words.
+No words.
 
 ### .all
 
 Type: `array`
 
-Both yes and no like words.
+Both yes and no words.
 
 ### .yesRandom()
 
 Type: `function`
 
-Random yes like words.
+Random yes words.
 
 ### .noRandom()
 
 Type: `function`
 
-Random no like words.
+Random no words.
+
+### .yesRandomWithLang()
+
+Type: `function`
+
+Random yes words, with a suffix of what language it's in.
+
+```
+Так - that's in Belarusian
+```
+
+### .noRandomWithLang()
+
+Type: `function`
+
+Random no words, with a suffix of what language it's in.
+
+```
+dili - that's in Cebuano
+```
 
 ### .allRandom()
 
 Type: `function`
 
-Random yes or no like words.
+Random yes or no words.
 
 
 ## CLI
@@ -74,21 +94,26 @@ $ yes-no --help
 
   Examples
     $ yes-no
-    Yisss
+    Éwè
 
     $ yes-no --all --type yes
-    Absolutely
-    Affirmative
+    Zee
+    हाँ
+    
+    $ yes-no --type no --which
+    neen - that's in Luxembourgish
     ...
 
   Options
     --all   Get all words instead of a random word
     --type  Type of word: yes|no|all  Default: all
+    --which Include the language of the word
 ```
 
 
 ## Related
 
+- [yes-no](https://github.com/sindresorhus/yes-no-words) - Get yes/no like words.  (our parent!)
 - [cat-names](https://github.com/sindresorhus/cat-names) - Get popular cat names
 - [dog-names](https://github.com/sindresorhus/dog-names) - Get popular dog names
 - [pokemon](https://github.com/sindresorhus/pokemon) - Get Pokémon names
@@ -99,4 +124,4 @@ $ yes-no --help
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [NewAlexandria](http://www.newalexandria.org)
